@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The Domain You Requested Has Been Misconfigured</h2>
+
+<p>
+CloudFront has detected the DNS record for the domain <span class="DomainName"></span> is misconfigured.  The DNS record for <span class="DomainName">this domain</span> points to CloudFront's IP Range, 
+but is not explicitly listed as an Alias for a CloudFront distribution, see <a href="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/CNAMEs.html#CreatingCNAME">
+Adding an Alternate Domain Name</a>.  Due to the misconfiguration we have detected within your DNS and the possibility of another AWS account's ability to utilize 
+this domain name to serve malicious content, CloudFront has blocked this domain name from being used.
+</p>
+
+<p>
+If you own this domain name and would like to associate the Alias to your CloudFront distribution, please follow the article here to get the Alias restored back to 
+your distribution: <a href="https://aws.amazon.com/premiumsupport/knowledge-center/resolve-cnamealreadyexists-error/">https://aws.amazon.com/premiumsupport/knowledge-center/resolve-cnamealreadyexists-error/</a>.
+</p>
+<script>
+	var domainName = window.location.host;
+	domainChange = document.getElementsByClassName("DomainName")
+
+	for (var i = 0; i< domainChange.length; i++) {
+		domainChange[i].innerText = domainName;
+	}
+</script>
+</body>
+</html>
