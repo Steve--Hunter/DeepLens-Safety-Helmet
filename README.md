@@ -7,7 +7,7 @@ Use Case:
 As a Site Inspector, I want to identify any construcion crew that are not wearing safety helmets, so I can meet my health and safety responsibilties
 
 Steps:
-1. Grab images from ImageNet
+[1. Download ImageNet images by Wordnet ID.ipynb](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/1.%20Download%20ImageNet%20images%20by%20Wordnet%20ID.ipynb)
 2. Compose them into .rec format for MXNEt
 3. Retrain model (hotdog) with new images (of safety helmet)
 4. Deploy retrained model to DeepLens
