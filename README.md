@@ -10,7 +10,7 @@ As a Site Inspector, I want to identify any construcion crew that are not wearin
 
 [1. Download ImageNet images by Wordnet ID.ipynb](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/1.%20Download%20ImageNet%20images%20by%20Wordnet%20ID.ipynb)
 
-2. Store images into binary recordIO format for MXNEt
+[2. Store images into binary recordIO format for MXNEt]( https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/2.%20Store%20images%20into%20binary%20recordIO%20format%20for%20MXNEt.ipynb
 
 3. Retrain model (hotdog) with new images (of safety helmet)
 
