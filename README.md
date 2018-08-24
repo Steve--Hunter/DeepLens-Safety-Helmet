@@ -6,10 +6,14 @@ https://safethelmetdetection.notebook.us-east-1.sagemaker.aws/tree
 Use Case:
 As a Site Inspector, I want to identify any construcion crew that are not wearing safety helmets, so I can meet my health and safety responsibilties
 
-Steps:
+## Steps:
 
 [1. Download ImageNet images by Wordnet ID.ipynb](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/1.%20Download%20ImageNet%20images%20by%20Wordnet%20ID.ipynb)
 2. Compose them into .rec format for MXNEt
+
 3. Retrain model (hotdog) with new images (of safety helmet)
+
 4. Deploy retrained model to DeepLens
+
 5. Build infrastructure to alert Site Inspector of construction crew not wearing a safety helmet 
+
