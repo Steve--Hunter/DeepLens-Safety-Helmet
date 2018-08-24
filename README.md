@@ -12,7 +12,7 @@ As a Site Inspector, I want to identify any construcion crew that are not wearin
 
 [2. Store images into binary recordIO format for MXNEt](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/2.%20Store%20images%20into%20binary%20recordIO%20format%20for%20MXNEt.ipynb)
 
-[3. Fine tune existing model.ipynb] (https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/3.%20Fine%20tune%20existing%20model.ipynb)
+[3. Fine tune existing model.ipynb](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/3.%20Fine%20tune%20existing%20model.ipynb)
 
 4. Deploy retrained model to DeepLens
 
