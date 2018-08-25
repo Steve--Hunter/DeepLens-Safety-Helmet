@@ -16,5 +16,5 @@ As a Site Inspector, I want to identify any construction crew that are not weari
 
 [4. Deploy retrained model to DeepLens](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/4.%20Deploy%20retrained%20model%20to%20DeepLens.ipynb)
 
-5. Build infrastructure to alert Site Inspector of construction crew not wearing a safety helmet 
+[5. Alert Site Inspector of construction crew not wearing a safety helmet](https://github.com/Steve--Hunter/DeepLens-Safety-Helmet/tree/master/5.%20Alert%20Site%20Inspector%20of%20construction%20crew%20not%20wearing%20a%20safety%20helmet.ipynb)
 
